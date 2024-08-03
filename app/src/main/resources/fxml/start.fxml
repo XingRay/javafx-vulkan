@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="800.0" prefWidth="800.0" style="-fx-background-color: #fff"
+            xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.github.xingray.page.start.StartController">
+
+    <ImageView fx:id="ivImage" fitHeight="600.0" fitWidth="600.0" layoutX="100.0" layoutY="100.0" pickOnBounds="true"
+               preserveRatio="true"/>
+
+</AnchorPane>
